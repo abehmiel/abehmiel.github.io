@@ -20,5 +20,3 @@ My Ph. D. research studied the effect of the electric field and variations in ex
 I have a current music project called Holistic Wellness. I played guitar, bass, ukulele, sing, sequence drums and did other stuff for a solo music project called \_11:34 (underscore eleven thirty four) which was my primary vehicle for creative ideas for about six years. I also used to be in the bands Sonar Mellowship, The Cross Product, Carl Consumer and the Red White and Blue Torpedoes, Undefined Auguments, and Density of States.
 
 I’m vegan, sober, ENM, and I like to ride bikes and do pistol squats.
-
-The picture in the background was taken on the Isle of Santorini in Greece in September 2010, and was modified using a Mandelbrot-type fractal map.

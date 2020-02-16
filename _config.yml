@@ -7,7 +7,7 @@ kramdown:
 
 # Permalinks
 permalink:        date
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:            Abe Hmiel

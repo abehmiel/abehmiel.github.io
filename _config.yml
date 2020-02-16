@@ -6,8 +6,8 @@ kramdown:
   input: GFM
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: false
+permalink:        date
+relative_permalinks: true
 
 # Setup
 title:            Abe Hmiel
